@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Tag Trend Visualizer",
+  "description": "A moody blue dashboard for visualizing the count of YouTube videos for specific tags across a customizable time period, powered by Gemini AI for trend estimation.",
+  "requestFramePermissions": []
+}
